@@ -8,7 +8,6 @@ export default defineConfig({
   base: "/code-quality-in-embedded-systems/",
   themeConfig: {
 
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'C', link: 'catalog/c' },
       { text: 'Bare-metal', link: 'catalog/baremetal' },

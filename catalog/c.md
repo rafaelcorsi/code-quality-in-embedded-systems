@@ -7,10 +7,9 @@
 
 ## C code
 
-### cppcheck
-
 ::: info TODO
-1. Falar?
+1. cppcheck
+1. double instead of float
 :::
 
 ## Head File
