@@ -17,16 +17,15 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Outline',
         items: [
           { text: 'Home', link: '/' },
-          { text: 'Examples', link: '/markdown-examples' }
         ]
       }
     ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+   // socialLinks: [
+   //   { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+   // ]
   }
 })
